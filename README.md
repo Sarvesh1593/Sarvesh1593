@@ -12,19 +12,18 @@
 - 📄 Resume [Resume](https://drive.google.com/file/d/1fan2x1DeyZez6HLRMNBhCFlDkUjmX3-i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" height="30" width="40" />
+<p align="left" style="display: flex; gap: 15px;">
+  <a href="https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp; <!-- Adds space -->
-  <a href="https://www.leetcode.com/u/sarvesh1904/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarvesh1904/" height="30" width="40" />
+  <a href="https://leetcode.com/u/sarvesh1904/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp; <!-- Adds space -->
-  <a href="https://auth.geeksforgeeks.org/user/sarveshin2003/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sarveshin2003/" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/sarveshin2003/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
