@@ -13,15 +13,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" target="blank">
+  <a href="https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Adds space -->
-  <a href="https://www.leetcode.com/https://leetcode.com/u/sarvesh1904/" target="blank">
+  <a href="https://www.leetcode.com/u/sarvesh1904/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarvesh1904/" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Adds space -->
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sarveshin2003/" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/sarveshin2003/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sarveshin2003/" height="30" width="40" />
   </a>
 </p>
