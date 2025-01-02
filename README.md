@@ -1,122 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sarvesh Chaudhary</h1>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+</div>
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Sarvesh+Chaudhary!" />
+    </a>
+</h1>
+
 <h3 align="center">
-A passionate Android and Backend Developer from India, skilled in building scalable mobile and backend solutions using Kotlin, Firebase, Node.js, and MongoDB.
+A passionate Android and Backend Developer from India, skilled in building user-centric and scalable mobile and backend solutions.
 </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sarvesh1593&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh1593" /> 
-</p>
+---
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=sarvesh1593">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarvesh1593&margin-w=5&column=7" alt="sarvesh1593 trophies" />
-  </a>
-</p>
+<h2>👨‍💻 About Me</h2>
 
-- 🔭 **I’m currently working on:**  
-  Building robust Android apps and scalable backend systems.  
+✨ **Writing clean and efficient code since**: 2022, when I built my first project and learned that coding is equal parts building and debugging. <br><br>
+📚 **Currently exploring**:  
+- Jetpack Compose for modern Android UI design.  
+- Advanced backend frameworks like Node.js and MongoDB.  
+- Cloud services for scalable app deployment.  
+- Mastering Data Structures and Algorithms for performance optimization.
 
-- 🌱 **I’m currently learning:**  
-  **Jetpack Compose, Advanced Node.js, and Cloud Deployment**  
+🎯 **Goals**:  
+- Build impactful Android apps with advanced functionalities.  
+- Launch innovative applications on Google Play Store.  
+- Strengthen backend expertise to deliver seamless integrations.  
+- Contribute to open-source projects and collaborate with the developer community.  
 
-- 💬 **Ask me about:**  
-  **Android Development, Backend Systems, API Design, Firebase, or Kotlin.**
-
-- 📫 **Reach me at:**  
-  [sarvesh.in.2003@gmail.com](mailto:sarvesh.in.2003@gmail.com)
-
-- 📄 **Check out my resume:**  
-  [Resume](https://drive.google.com/file/d/1fan2x1DeyZez6HLRMNBhCFlDkUjmX3-i/view?usp=sharing)
+🎲 **Fun fact**: My favorite feature of an app is *the undo button*, because we all make mistakes! 😄  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>🛠️ Skills & Tools</h2>
+<div align="center">
+
+<!-- Programming Languages -->
+<h3>Languages</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+
+<br>
+
+<!-- Backend Frameworks -->
+<h3>Backend & Frameworks</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
+
+<br>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+
+<br>
+
+<!-- Tools -->
+<h3>Tools & Platforms</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+---
+
+<h2>📊 Stats</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats -->
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sarvesh1593&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- GitHub Streak Stats -->
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh1593&theme=default&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2>🌐 Connect with Me</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/sarvesh-chaudhary-14266022a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/sarvesh1904/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sarveshin2003/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" height="40" alt="GeeksforGeeks" />
   </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> 
-  </a>
-  
-  <!-- Backend & Frameworks -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
-  </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh1593&show_icons=true&locale=en&layout=compact" alt="sarvesh1593" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvesh1593&show_icons=true&locale=en" alt="sarvesh1593" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh1593&" alt="sarvesh1593" /></p>
+</div>
