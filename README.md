@@ -84,7 +84,7 @@ A passionate Android and Backend Developer from India, skilled in building user-
       </td>
       <td>
         <!-- GitHub Streak Stats -->
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh1593&theme=default&hide_border=true" alt="Streak Stats" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh1593&theme=default&hide_border=true" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
