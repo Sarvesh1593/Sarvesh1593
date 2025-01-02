@@ -98,9 +98,10 @@ A passionate Android and Backend Developer from India, skilled in building user-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/sarvesh1904/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode" />
-  </a>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" alt="LeetCode" />
+</a>
   <a href="https://auth.geeksforgeeks.org/user/sarveshin2003/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" height="40" alt="GeeksforGeeks" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks" />
+</a>
+
 </div>
