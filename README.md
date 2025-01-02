@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sarvesh.in.2003@gmail.com**
 
-- 📄 Resume [Resume](https://drive.google.com/file/d/1fan2x1DeyZez6HLRMNBhCFlDkUjmX3-i/view?usp=sharing)
+- 📄 Know about My Experience [Resume](https://drive.google.com/file/d/1fan2x1DeyZez6HLRMNBhCFlDkUjmX3-i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 15px;">
